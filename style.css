@@ -20,13 +20,15 @@ button {
 }
 
 .highlight {
-  font-size: 4rem;
+  font-size: 8rem;
   color: red;
   transition: all 2s;
 }
 
 .highlight2 {
-  font-size: 2rem;
-  border: 3px solid white;
+  font-size: 3rem;
+  color: #4cc04c;
+  padding: 1rem;
+  border: 3px solid #4cc04c;
   transition: all 2s;
 }
